@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Random_Value\Random_Value\bin\Debug\net8.0\Random_Value.exe
+C:\Users\HP\source\repos\Random_Value\Random_Value\bin\Debug\net8.0\Random_Value.deps.json
+C:\Users\HP\source\repos\Random_Value\Random_Value\bin\Debug\net8.0\Random_Value.runtimeconfig.json
+C:\Users\HP\source\repos\Random_Value\Random_Value\bin\Debug\net8.0\Random_Value.dll
+C:\Users\HP\source\repos\Random_Value\Random_Value\bin\Debug\net8.0\Random_Value.pdb
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.AssemblyInfo.cs
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.dll
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\refint\Random_Value.dll
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.pdb
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\Random_Value.genruntimeconfig.cache
+C:\Users\HP\source\repos\Random_Value\Random_Value\obj\Debug\net8.0\ref\Random_Value.dll

@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\App_cmd\App_cmd\bin\Debug\net8.0\App_cmd.exe
+C:\Users\HP\source\repos\App_cmd\App_cmd\bin\Debug\net8.0\App_cmd.deps.json
+C:\Users\HP\source\repos\App_cmd\App_cmd\bin\Debug\net8.0\App_cmd.runtimeconfig.json
+C:\Users\HP\source\repos\App_cmd\App_cmd\bin\Debug\net8.0\App_cmd.dll
+C:\Users\HP\source\repos\App_cmd\App_cmd\bin\Debug\net8.0\App_cmd.pdb
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.AssemblyInfo.cs
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.dll
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\refint\App_cmd.dll
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.pdb
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\App_cmd.genruntimeconfig.cache
+C:\Users\HP\source\repos\App_cmd\App_cmd\obj\Debug\net8.0\ref\App_cmd.dll
